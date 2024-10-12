@@ -1,4 +1,9 @@
-## Hi there 👋
+        👋 Hi, I’m uwubak
+
+x 🌱 I’m currently learning Java, JavaScript
+x ⚡ I'm making minecraft plugins
+
+x 🔥I'm Going to learn C++
 
 <!--
 **uwubak6/uwubak6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

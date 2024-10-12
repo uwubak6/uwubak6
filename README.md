@@ -2,7 +2,7 @@
 
 x 🌱 I’m currently learning Java, JavaScript
 
-x ⚡ I'm making minecraft plugins
+x ⚡ passionate minecraft plugins developer
 
 x 🔥I'm Going to learn C++
 

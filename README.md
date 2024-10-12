@@ -1,6 +1,7 @@
                                                               👋 Hi, I’m uwubak
 
 x 🌱 I’m currently learning Java, JavaScript
+
 x ⚡ I'm making minecraft plugins
 
 x 🔥I'm Going to learn C++
